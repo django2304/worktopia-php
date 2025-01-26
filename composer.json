@@ -1,0 +1,16 @@
+{
+    "name": "django2304/worktopia-php",
+    "description": "Job Listing Application",
+    "authors": [
+        {
+            "name": "Django Jackson",
+            "email": "djangojackson77@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "Framework/",
+            "App\\": "App/"
+        }
+    }
+}
